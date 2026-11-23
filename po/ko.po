@@ -1,0 +1,1 @@
+../translationproject/PO-files/ko/grep-3.11.68.ko.po
